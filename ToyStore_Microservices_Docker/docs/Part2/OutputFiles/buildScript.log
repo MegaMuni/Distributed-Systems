@@ -1,0 +1,67 @@
+mkonidala@Munis-MacBook-Pro srcDocker % sh build.sh 
+Password:
+Building catalog
+[+] Building 2.7s (11/11) FINISHED                                                                                                                                                      
+ => [internal] load build definition from Dockerfile                                                                                                                               0.0s
+ => => transferring dockerfile: 37B                                                                                                                                                0.0s
+ => [internal] load .dockerignore                                                                                                                                                  0.0s
+ => => transferring context: 2B                                                                                                                                                    0.0s
+ => [internal] load metadata for docker.io/library/python:3.8-alpine                                                                                                               0.6s
+ => [auth] library/python:pull token for registry-1.docker.io                                                                                                                      0.0s
+ => [1/5] FROM docker.io/library/python:3.8-alpine@sha256:0ec0455a15c2810fa3f8810dd962bccb64b65e228e07eda412789deff6a03cb5                                                         0.0s
+ => [internal] load build context                                                                                                                                                  0.0s
+ => => transferring context: 2.81kB                                                                                                                                                0.0s
+ => CACHED [2/5] WORKDIR /app                                                                                                                                                      0.0s
+ => [3/5] RUN pip install sockets                                                                                                                                                  1.7s
+ => [4/5] RUN mkdir -p /app/data                                                                                                                                                   0.2s
+ => [5/5] COPY [catalog.py, ./]                                                                                                                                                    0.0s
+ => exporting to image                                                                                                                                                             0.1s
+ => => exporting layers                                                                                                                                                            0.1s
+ => => writing image sha256:734e5b948fb7cc6e6e4df57a05f9bc423ce1b5a27883b2b24ea282eecbd170b8                                                                                       0.0s
+ => => naming to docker.io/library/srcdocker_catalog                                                                                                                               0.0s
+
+Use 'docker scan' to run Snyk tests against images to find vulnerabilities and learn how to fix them
+Building orders
+[+] Building 2.2s (10/10) FINISHED                                                                                                                                                      
+ => [internal] load build definition from Dockerfile                                                                                                                               0.0s
+ => => transferring dockerfile: 37B                                                                                                                                                0.0s
+ => [internal] load .dockerignore                                                                                                                                                  0.0s
+ => => transferring context: 2B                                                                                                                                                    0.0s
+ => [internal] load metadata for docker.io/library/python:3.8-alpine                                                                                                               0.1s
+ => CACHED [1/5] FROM docker.io/library/python:3.8-alpine@sha256:0ec0455a15c2810fa3f8810dd962bccb64b65e228e07eda412789deff6a03cb5                                                  0.0s
+ => [internal] load build context                                                                                                                                                  0.0s
+ => => transferring context: 2.52kB                                                                                                                                                0.0s
+ => [2/5] RUN pip install sockets                                                                                                                                                  1.7s
+ => [3/5] WORKDIR /app                                                                                                                                                             0.0s
+ => [4/5] RUN mkdir -p /app/data                                                                                                                                                   0.2s
+ => [5/5] COPY [orders.py, ./]                                                                                                                                                     0.0s
+ => exporting to image                                                                                                                                                             0.1s
+ => => exporting layers                                                                                                                                                            0.1s
+ => => writing image sha256:58f6a0fd856a502a3e870bb6d347495f11e25766b947a2af0ef11d0ea6800d9c                                                                                       0.0s
+ => => naming to docker.io/library/srcdocker_orders                                                                                                                                0.0s
+
+Use 'docker scan' to run Snyk tests against images to find vulnerabilities and learn how to fix them
+Building frontend
+[+] Building 2.0s (10/10) FINISHED                                                                                                                                                      
+ => [internal] load build definition from Dockerfile                                                                                                                               0.0s
+ => => transferring dockerfile: 37B                                                                                                                                                0.0s
+ => [internal] load .dockerignore                                                                                                                                                  0.0s
+ => => transferring context: 2B                                                                                                                                                    0.0s
+ => [internal] load metadata for docker.io/library/python:3.8-alpine                                                                                                               0.1s
+ => [internal] load build context                                                                                                                                                  0.0s
+ => => transferring context: 40B                                                                                                                                                   0.0s
+ => CACHED [1/5] FROM docker.io/library/python:3.8-alpine@sha256:0ec0455a15c2810fa3f8810dd962bccb64b65e228e07eda412789deff6a03cb5                                                  0.0s
+ => [2/5] RUN pip install sockets                                                                                                                                                  1.5s
+ => [3/5] WORKDIR /app                                                                                                                                                             0.0s
+ => [4/5] RUN mkdir -p /app/data                                                                                                                                                   0.1s
+ => [5/5] COPY [frontendservice.py,./]                                                                                                                                             0.0s
+ => exporting to image                                                                                                                                                             0.1s
+ => => exporting layers                                                                                                                                                            0.1s
+ => => writing image sha256:d704430ab6baf01db94dcf845f89e17cdff42f91db0e925a85ba13a5b4c0d7bd                                                                                       0.0s
+ => => naming to docker.io/library/srcdocker_frontend                                                                                                                              0.0s
+
+Use 'docker scan' to run Snyk tests against images to find vulnerabilities and learn how to fix them
+Creating network "srcdocker_default" with the default driver
+Creating srcdocker_catalog_1 ... done
+Creating srcdocker_orders_1  ... done
+Creating srcdocker_frontend_1 ... done

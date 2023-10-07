@@ -1,0 +1,7 @@
+[mkonidala@Munis-MacBook-Pro src % java Client
+Enter ip address/hostname of the server: 
+128.119.243.147
+Enter the message to server: 
+Buy Tux 
+Number of items left: 1499.0 Cost of the item: 10.99
+mkonidala@Munis-MacBook-Pro src % 

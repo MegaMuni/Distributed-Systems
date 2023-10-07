@@ -1,0 +1,2014 @@
+
+
+Upgrade
+
+
+8972121363
+
+srcdocker_catalog_1
+srcdocker_catalog
+RUNNING
+
+
+
+
+
+Connected to : 192.168.32.4 : 58052
+
+Connected to : 192.168.32.4 : 58054
+
+{'type': 'get', 'name': 'Bird'}
+
+{'name': 'Bird', 'price': 7.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+{'type': 'get', 'name': 'Whale'}
+
+{'name': 'Whale', 'price': 5.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58056
+
+{'type': 'get', 'name': 'Tux'}
+
+{'name': 'Tux', 'price': 10.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58058
+
+{'type': 'get', 'name': 'Tux'}
+
+{'name': 'Tux', 'price': 10.99, 'quantity': 0, 'code': 1}
+
+Connected to : 192.168.32.4 : 58060
+
+Connected to : 192.168.32.4 : 58062
+
+{'type': 'get', 'name': 'Bird'}
+
+{'name': 'Bird', 'price': 7.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+{'type': 'get', 'name': 'Elephant'}
+
+{'name': 'Elephant', 'price': 6.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58064
+
+Connected to : 192.168.32.4 : 58066
+
+{'type': 'get', 'name': 'Tux'}
+
+{'name': 'Tux', 'price': 10.99, 'quantity': 0, 'code': 1}
+
+Connected to : 192.168.32.4 : 58068
+
+{'type': 'get', 'name': 'Elephant'}
+
+{'name': 'Elephant', 'price': 6.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+{'type': 'get', 'name': 'Bird'}
+
+{'name': 'Bird', 'price': 7.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58070
+
+{'type': 'get', 'name': 'Elephant'}
+
+{'name': 'Elephant', 'price': 6.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58072
+
+{'type': 'get', 'name': 'Whale'}
+
+{'name': 'Whale', 'price': 5.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58074
+
+{'type': 'get', 'name': 'Tux'}
+
+{'name': 'Tux', 'price': 10.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58076
+
+Connected to : 192.168.32.4 : 58078
+
+{'type': 'get', 'name': 'Elephant'}
+
+{'name': 'Elephant', 'price': 6.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+{'type': 'get', 'name': 'Elephant'}
+
+{'name': 'Elephant', 'price': 6.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58080
+
+{'type': 'get', 'name': 'Elephant'}
+
+{'name': 'Elephant', 'price': 6.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58082
+
+Connected to : 192.168.32.4 : 58084
+
+{'type': 'get', 'name': 'Bird'}
+
+{'name': 'Bird', 'price': 7.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+{'type': 'get', 'name': 'Whale'}
+
+{'name': 'Whale', 'price': 5.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58086
+
+{'type': 'get', 'name': 'Tux'}
+
+{'name': 'Tux', 'price': 10.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58088
+
+Connected to : 192.168.32.4 : 58090
+
+{'type': 'get', 'name': 'Elephant'}
+
+{'name': 'Elephant', 'price': 6.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+{'type': 'get', 'name': 'Elephant'}
+
+{'name': 'Elephant', 'price': 6.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58092
+
+{'type': 'get', 'name': 'Bird'}
+
+{'name': 'Bird', 'price': 7.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58094
+
+Connected to : 192.168.32.4 : 58096
+
+{'type': 'get', 'name': 'Tux'}
+
+{'name': 'Tux', 'price': 10.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+{'type': 'get', 'name': 'Whale'}
+
+{'name': 'Whale', 'price': 5.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58098
+
+{'type': 'get', 'name': 'Whale'}
+
+{'name': 'Whale', 'price': 5.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58100
+
+{'type': 'get', 'name': 'Bird'}
+
+{'name': 'Bird', 'price': 7.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58102
+
+{'type': 'get', 'name': 'Tux'}
+
+{'name': 'Tux', 'price': 10.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58104
+
+Connected to : 192.168.32.4 : 58106
+
+{'type': 'get', 'name': 'Tux'}
+
+{'name': 'Tux', 'price': 10.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+{'type': 'get', 'name': 'Bird'}
+
+{'name': 'Bird', 'price': 7.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58110
+
+{'type': 'get', 'name': 'Bird'}
+
+{'name': 'Bird', 'price': 7.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58112
+
+Connected to : 192.168.32.4 : 58108
+
+{'type': 'get', 'name': 'Whale'}
+
+{'name': 'Whale', 'price': 5.99, 'quantity': 0, 'code': 1}
+
+{'type': 'get', 'name': 'Tux'}
+
+{'name': 'Tux', 'price': 10.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58114
+
+Connected to : 192.168.32.4 : 58116
+
+{'type': 'get', 'name': 'Elephant'}
+
+{'name': 'Elephant', 'price': 6.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+{'type': 'get', 'name': 'Bird'}
+
+{'name': 'Bird', 'price': 7.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58118
+
+Connected to : 192.168.32.4 : 58120
+
+Connected to : 192.168.32.4 : 58122
+
+{'type': 'get', 'name': 'Elephant'}
+
+{'name': 'Elephant', 'price': 6.99, 'quantity': 0, 'code': 1}
+
+{'type': 'get', 'name': 'Elephant'}
+
+{'name': 'Elephant', 'price': 6.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+{'type': 'get', 'name': 'Bird'}
+
+{'name': 'Bird', 'price': 7.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58126
+
+Connected to : 192.168.32.4 : 58124
+
+{'type': 'get', 'name': 'Whale'}
+
+{'name': 'Whale', 'price': 5.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+{'type': 'get', 'name': 'Whale'}
+
+{'name': 'Whale', 'price': 5.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58128
+
+{'type': 'get', 'name': 'Bird'}
+
+{'name': 'Bird', 'price': 7.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58130
+
+{'type': 'get', 'name': 'Bird'}
+
+{'name': 'Bird', 'price': 7.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58132
+
+{'type': 'get', 'name': 'Elephant'}
+
+{'name': 'Elephant', 'price': 6.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58134
+
+{'type': 'get', 'name': 'Bird'}
+
+{'name': 'Bird', 'price': 7.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58136
+
+{'type': 'get', 'name': 'Tux'}
+
+{'name': 'Tux', 'price': 10.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58138
+
+{'type': 'get', 'name': 'Whale'}
+
+{'name': 'Whale', 'price': 5.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58140
+
+Connected to : 192.168.32.4 : 58142
+
+{'type': 'get', 'name': 'Whale'}
+
+{'name': 'Whale', 'price': 5.99, 'quantity': 0, 'code': 1}
+
+Connected to : 192.168.32.4 : 58144
+
+Request is processed
+
+{'type': 'get', 'name': 'Whale'}
+
+{'name': 'Whale', 'price': 5.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+{'type': 'get', 'name': 'Whale'}
+
+{'name': 'Whale', 'price': 5.99, 'quantity': 0, 'code': 1}
+
+Connected to : 192.168.32.4 : 58146
+
+Request is processed
+
+{'type': 'get', 'name': 'Tux'}
+
+{'name': 'Tux', 'price': 10.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58148
+
+{'type': 'get', 'name': 'Elephant'}
+
+{'name': 'Elephant', 'price': 6.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58150
+
+{'type': 'get', 'name': 'Elephant'}
+
+{'name': 'Elephant', 'price': 6.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58152
+
+{'type': 'get', 'name': 'Tux'}
+
+{'name': 'Tux', 'price': 10.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58154
+
+{'type': 'get', 'name': 'Whale'}
+
+{'name': 'Whale', 'price': 5.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58156
+
+{'type': 'get', 'name': 'Tux'}
+
+{'name': 'Tux', 'price': 10.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58158
+
+{'type': 'get', 'name': 'Elephant'}
+
+{'name': 'Elephant', 'price': 6.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58160
+
+{'type': 'get', 'name': 'Tux'}
+
+{'name': 'Tux', 'price': 10.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58164
+
+Connected to : 192.168.32.4 : 58162
+
+Connected to : 192.168.32.4 : 58166
+
+{'type': 'get', 'name': 'Bird'}
+
+{'name': 'Bird', 'price': 7.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+{'type': 'get', 'name': 'Elephant'}
+
+{'name': 'Elephant', 'price': 6.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+{'type': 'get', 'name': 'Elephant'}
+
+{'name': 'Elephant', 'price': 6.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58168
+
+{'type': 'get', 'name': 'Elephant'}
+
+{'name': 'Elephant', 'price': 6.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58170
+
+Connected to : 192.168.32.4 : 58172
+
+{'type': 'get', 'name': 'Whale'}
+
+{'name': 'Whale', 'price': 5.99, 'quantity': 0, 'code': 1}
+
+Connected to : 192.168.32.4 : 58174
+
+Connected to : 192.168.32.4 : 58176
+
+Request is processed
+
+{'type': 'get', 'name': 'Tux'}
+
+{'name': 'Tux', 'price': 10.99, 'quantity': 0, 'code': 1}
+
+{'type': 'get', 'name': 'Bird'}
+
+{'name': 'Bird', 'price': 7.99, 'quantity': 0, 'code': 1}
+
+{'type': 'get', 'name': 'Whale'}
+
+{'name': 'Whale', 'price': 5.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58178
+
+{'type': 'get', 'name': 'Bird'}
+
+{'name': 'Bird', 'price': 7.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58182
+
+Connected to : 192.168.32.4 : 58180
+
+Connected to : 192.168.32.4 : 58184
+
+Connected to : 192.168.32.4 : 58186
+
+{'type': 'get', 'name': 'Whale'}
+
+{'name': 'Whale', 'price': 5.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+{'type': 'get', 'name': 'Bird'}
+
+{'name': 'Bird', 'price': 7.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+{'type': 'get', 'name': 'Elephant'}
+
+{'name': 'Elephant', 'price': 6.99, 'quantity': 0, 'code': 1}
+
+{'type': 'get', 'name': 'Elephant'}
+
+{'name': 'Elephant', 'price': 6.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58188
+
+Request is processed
+
+{'type': 'get', 'name': 'Tux'}
+
+{'name': 'Tux', 'price': 10.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58190
+
+{'type': 'get', 'name': 'Tux'}
+
+{'name': 'Tux', 'price': 10.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58192
+
+Connected to : 192.168.32.4 : 58194
+
+Connected to : 192.168.32.4 : 58196
+
+{'type': 'get', 'name': 'Bird'}
+
+{'name': 'Bird', 'price': 7.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+{'type': 'get', 'name': 'Bird'}
+
+{'name': 'Bird', 'price': 7.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+{'type': 'get', 'name': 'Whale'}
+
+{'name': 'Whale', 'price': 5.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58198
+
+{'type': 'get', 'name': 'Whale'}
+
+{'name': 'Whale', 'price': 5.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58200
+
+{'type': 'get', 'name': 'Tux'}
+
+{'name': 'Tux', 'price': 10.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58202
+
+{'type': 'get', 'name': 'Bird'}
+
+{'name': 'Bird', 'price': 7.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58204
+
+{'type': 'get', 'name': 'Whale'}
+
+{'name': 'Whale', 'price': 5.99, 'quantity': 0, 'code': 1}
+
+Connected to : 192.168.32.4 : 58206
+
+Request is processed
+
+{'type': 'get', 'name': 'Whale'}
+
+{'name': 'Whale', 'price': 5.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58208
+
+Connected to : 192.168.32.4 : 58210
+
+{'type': 'get', 'name': 'Tux'}
+
+{'name': 'Tux', 'price': 10.99, 'quantity': 0, 'code': 1}
+
+{'type': 'get', 'name': 'Whale'}
+
+{'name': 'Whale', 'price': 5.99, 'quantity': 0, 'code': 1}
+
+Connected to : 192.168.32.4 : 58212
+
+Connected to : 192.168.32.4 : 58214
+
+Request is processed
+
+{'type': 'get', 'name': 'Whale'}
+
+{'name': 'Whale', 'price': 5.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+{'type': 'get', 'name': 'Tux'}
+
+{'name': 'Tux', 'price': 10.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58216
+
+Connected to : 192.168.32.4 : 58218
+
+{'type': 'get', 'name': 'Tux'}
+
+{'name': 'Tux', 'price': 10.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+{'type': 'get', 'name': 'Whale'}
+
+{'name': 'Whale', 'price': 5.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58220
+
+Connected to : 192.168.32.4 : 58222
+
+Connected to : 192.168.32.4 : 58224
+
+{'type': 'get', 'name': 'Bird'}
+
+{'name': 'Bird', 'price': 7.99, 'quantity': 0, 'code': 1}
+
+{'type': 'get', 'name': 'Elephant'}
+
+{'name': 'Elephant', 'price': 6.99, 'quantity': 0, 'code': 1}
+
+{'type': 'get', 'name': 'Elephant'}
+
+{'name': 'Elephant', 'price': 6.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Request is processed
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58226
+
+Connected to : 192.168.32.4 : 58228
+
+Connected to : 192.168.32.4 : 58230
+
+Connected to : 192.168.32.4 : 58232
+
+Connected to : 192.168.32.4 : 58234
+
+{'type': 'get', 'name': 'Bird'}
+
+{'name': 'Bird', 'price': 7.99, 'quantity': 0, 'code': 1}
+
+{'type': 'get', 'name': 'Tux'}
+
+{'name': 'Tux', 'price': 10.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+{'type': 'get', 'name': 'Bird'}
+
+{'name': 'Bird', 'price': 7.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Request is processed
+
+{'type': 'get', 'name': 'Bird'}
+
+{'name': 'Bird', 'price': 7.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+{'type': 'get', 'name': 'Tux'}
+
+{'name': 'Tux', 'price': 10.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58236
+
+{'type': 'get', 'name': 'Bird'}
+
+{'name': 'Bird', 'price': 7.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58238
+
+Connected to : 192.168.32.4 : 58240
+
+Connected to : 192.168.32.4 : 58242
+
+{'type': 'get', 'name': 'Whale'}
+
+{'name': 'Whale', 'price': 5.99, 'quantity': 0, 'code': 1}
+
+{'type': 'get', 'name': 'Elephant'}
+
+{'name': 'Elephant', 'price': 6.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+{'type': 'get', 'name': 'Whale'}
+
+{'name': 'Whale', 'price': 5.99, 'quantity': 0, 'code': 1}
+
+Connected to : 192.168.32.4 : 58244
+
+{'type': 'get', 'name': 'Elephant'}
+
+{'name': 'Elephant', 'price': 6.99, 'quantity': 0, 'code': 1}
+
+Connected to : 192.168.32.4 : 58246
+
+Request is processed
+
+{'type': 'get', 'name': 'Elephant'}
+
+{'name': 'Elephant', 'price': 6.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Request is processed
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58248
+
+{'type': 'get', 'name': 'Whale'}
+
+{'name': 'Whale', 'price': 5.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58250
+
+Connected to : 192.168.32.4 : 58252
+
+{'type': 'get', 'name': 'Whale'}
+
+{'name': 'Whale', 'price': 5.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+{'type': 'get', 'name': 'Bird'}
+
+{'name': 'Bird', 'price': 7.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58254
+
+Connected to : 192.168.32.4 : 58256
+
+{'type': 'get', 'name': 'Bird'}
+
+{'name': 'Bird', 'price': 7.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+{'type': 'get', 'name': 'Whale'}
+
+{'name': 'Whale', 'price': 5.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58258
+
+{'type': 'get', 'name': 'Tux'}
+
+{'name': 'Tux', 'price': 10.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58260
+
+{'type': 'get', 'name': 'Elephant'}
+
+{'name': 'Elephant', 'price': 6.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58262
+
+Connected to : 192.168.32.4 : 58264
+
+{'type': 'get', 'name': 'Bird'}
+
+{'name': 'Bird', 'price': 7.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58266
+
+Connected to : 192.168.32.4 : 58268
+
+{'type': 'get', 'name': 'Whale'}
+
+{'name': 'Whale', 'price': 5.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+{'type': 'get', 'name': 'Bird'}
+
+{'name': 'Bird', 'price': 7.99, 'quantity': 0, 'code': 1}
+
+Connected to : 192.168.32.4 : 58270
+
+{'type': 'get', 'name': 'Whale'}
+
+{'name': 'Whale', 'price': 5.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+{'type': 'get', 'name': 'Bird'}
+
+{'name': 'Bird', 'price': 7.99, 'quantity': 0, 'code': 1}
+
+Connected to : 192.168.32.4 : 58272
+
+{'type': 'get', 'name': 'Elephant'}
+
+{'name': 'Elephant', 'price': 6.99, 'quantity': 0, 'code': 1}
+
+Connected to : 192.168.32.4 : 58274
+
+Request is processed
+
+{'type': 'get', 'name': 'Elephant'}
+
+{'name': 'Elephant', 'price': 6.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Request is processed
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58276
+
+{'type': 'get', 'name': 'Tux'}
+
+{'name': 'Tux', 'price': 10.99, 'quantity': 0, 'code': 1}
+
+Connected to : 192.168.32.4 : 58278
+
+Connected to : 192.168.32.4 : 58280
+
+Connected to : 192.168.32.4 : 58282
+
+{'type': 'get', 'name': 'Whale'}
+
+{'name': 'Whale', 'price': 5.99, 'quantity': 0, 'code': 1}
+
+{'type': 'get', 'name': 'Tux'}
+
+{'name': 'Tux', 'price': 10.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+{'type': 'get', 'name': 'Whale'}
+
+{'name': 'Whale', 'price': 5.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Request is processed
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58284
+
+Connected to : 192.168.32.4 : 58286
+
+{'type': 'get', 'name': 'Bird'}
+
+{'name': 'Bird', 'price': 7.99, 'quantity': 0, 'code': 1}
+
+{'type': 'get', 'name': 'Tux'}
+
+{'name': 'Tux', 'price': 10.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58288
+
+{'type': 'get', 'name': 'Elephant'}
+
+{'name': 'Elephant', 'price': 6.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58290
+
+{'type': 'get', 'name': 'Whale'}
+
+{'name': 'Whale', 'price': 5.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58292
+
+Connected to : 192.168.32.4 : 58294
+
+Connected to : 192.168.32.4 : 58296
+
+{'type': 'get', 'name': 'Elephant'}
+
+{'name': 'Elephant', 'price': 6.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+{'type': 'get', 'name': 'Bird'}
+
+{'name': 'Bird', 'price': 7.99, 'quantity': 0, 'code': 1}
+
+{'type': 'get', 'name': 'Elephant'}
+
+{'name': 'Elephant', 'price': 6.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58298
+
+Request is processed
+
+{'type': 'get', 'name': 'Whale'}
+
+{'name': 'Whale', 'price': 5.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58300
+
+Connected to : 192.168.32.4 : 58302
+
+{'type': 'get', 'name': 'Elephant'}
+
+{'name': 'Elephant', 'price': 6.99, 'quantity': 0, 'code': 1}
+
+{'type': 'get', 'name': 'Whale'}
+
+{'name': 'Whale', 'price': 5.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58304
+
+Connected to : 192.168.32.4 : 58306
+
+{'type': 'get', 'name': 'Whale'}
+
+{'name': 'Whale', 'price': 5.99, 'quantity': 0, 'code': 1}
+
+Connected to : 192.168.32.4 : 58308
+
+{'type': 'get', 'name': 'Elephant'}
+
+{'name': 'Elephant', 'price': 6.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Request is processed
+
+{'type': 'get', 'name': 'Whale'}
+
+{'name': 'Whale', 'price': 5.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58310
+
+{'type': 'get', 'name': 'Elephant'}
+
+{'name': 'Elephant', 'price': 6.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58312
+
+{'type': 'get', 'name': 'Bird'}
+
+{'name': 'Bird', 'price': 7.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58314
+
+Connected to : 192.168.32.4 : 58316
+
+Connected to : 192.168.32.4 : 58318
+
+{'type': 'get', 'name': 'Whale'}
+
+{'name': 'Whale', 'price': 5.99, 'quantity': 0, 'code': 1}
+
+{'type': 'get', 'name': 'Tux'}
+
+{'name': 'Tux', 'price': 10.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+{'type': 'get', 'name': 'Bird'}
+
+{'name': 'Bird', 'price': 7.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58320
+
+Connected to : 192.168.32.4 : 58322
+
+{'type': 'get', 'name': 'Tux'}
+
+{'name': 'Tux', 'price': 10.99, 'quantity': 0, 'code': 1}
+
+{'type': 'get', 'name': 'Bird'}
+
+{'name': 'Bird', 'price': 7.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58324
+
+{'type': 'get', 'name': 'Tux'}
+
+{'name': 'Tux', 'price': 10.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58326
+
+Connected to : 192.168.32.4 : 58328
+
+{'type': 'get', 'name': 'Bird'}
+
+{'name': 'Bird', 'price': 7.99, 'quantity': 0, 'code': 1}
+
+Connected to : 192.168.32.4 : 58330
+
+{'type': 'get', 'name': 'Whale'}
+
+{'name': 'Whale', 'price': 5.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+{'type': 'get', 'name': 'Elephant'}
+
+{'name': 'Elephant', 'price': 6.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58332
+
+Connected to : 192.168.32.4 : 58334
+
+{'type': 'get', 'name': 'Tux'}
+
+{'name': 'Tux', 'price': 10.99, 'quantity': 0, 'code': 1}
+
+{'type': 'get', 'name': 'Elephant'}
+
+{'name': 'Elephant', 'price': 6.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58336
+
+Connected to : 192.168.32.4 : 58338
+
+Connected to : 192.168.32.4 : 58340
+
+{'type': 'get', 'name': 'Whale'}
+
+{'name': 'Whale', 'price': 5.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+{'type': 'get', 'name': 'Whale'}
+
+{'name': 'Whale', 'price': 5.99, 'quantity': 0, 'code': 1}
+
+{'type': 'get', 'name': 'Bird'}
+
+{'name': 'Bird', 'price': 7.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58342
+
+{'type': 'get', 'name': 'Bird'}
+
+{'name': 'Bird', 'price': 7.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58344
+
+{'type': 'get', 'name': 'Elephant'}
+
+{'name': 'Elephant', 'price': 6.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58346
+
+{'type': 'get', 'name': 'Whale'}
+
+{'name': 'Whale', 'price': 5.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58348
+
+Connected to : 192.168.32.4 : 58352
+
+Connected to : 192.168.32.4 : 58350
+
+{'type': 'get', 'name': 'Whale'}
+
+{'name': 'Whale', 'price': 5.99, 'quantity': 0, 'code': 1}
+
+{'type': 'get', 'name': 'Bird'}
+
+{'name': 'Bird', 'price': 7.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58354
+
+{'type': 'get', 'name': 'Tux'}
+
+{'name': 'Tux', 'price': 10.99, 'quantity': 0, 'code': 1}
+
+Connected to : 192.168.32.4 : 58356
+
+Request is processed
+
+{'type': 'get', 'name': 'Elephant'}
+
+{'name': 'Elephant', 'price': 6.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58358
+
+{'type': 'get', 'name': 'Elephant'}
+
+{'name': 'Elephant', 'price': 6.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+{'type': 'get', 'name': 'Bird'}
+
+{'name': 'Bird', 'price': 7.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58360
+
+{'type': 'get', 'name': 'Bird'}
+
+{'name': 'Bird', 'price': 7.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58362
+
+Connected to : 192.168.32.4 : 58364
+
+Connected to : 192.168.32.4 : 58366
+
+Connected to : 192.168.32.4 : 58368
+
+{'type': 'get', 'name': 'Bird'}
+
+{'name': 'Bird', 'price': 7.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58370
+
+{'type': 'get', 'name': 'Bird'}
+
+{'name': 'Bird', 'price': 7.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+{'type': 'get', 'name': 'Elephant'}
+
+{'name': 'Elephant', 'price': 6.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+{'type': 'get', 'name': 'Elephant'}
+
+{'name': 'Elephant', 'price': 6.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+{'type': 'get', 'name': 'Bird'}
+
+{'name': 'Bird', 'price': 7.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58376
+
+Connected to : 192.168.32.4 : 58372
+
+Connected to : 192.168.32.4 : 58374
+
+Connected to : 192.168.32.4 : 58378
+
+{'type': 'get', 'name': 'Bird'}
+
+{'name': 'Bird', 'price': 7.99, 'quantity': 0, 'code': 1}
+
+Connected to : 192.168.32.4 : 58380
+
+{'type': 'get', 'name': 'Tux'}
+
+{'name': 'Tux', 'price': 10.99, 'quantity': 0, 'code': 1}
+
+{'type': 'get', 'name': 'Elephant'}
+
+{'name': 'Elephant', 'price': 6.99, 'quantity': 0, 'code': 1}
+
+{'type': 'get', 'name': 'Bird'}
+
+{'name': 'Bird', 'price': 7.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+{'type': 'get', 'name': 'Elephant'}
+
+{'name': 'Elephant', 'price': 6.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Request is processed
+
+Request is processed
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58382
+
+Connected to : 192.168.32.4 : 58384
+
+Connected to : 192.168.32.4 : 58386
+
+{'type': 'get', 'name': 'Whale'}
+
+{'name': 'Whale', 'price': 5.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+{'type': 'get', 'name': 'Bird'}
+
+{'name': 'Bird', 'price': 7.99, 'quantity': 0, 'code': 1}
+
+Connected to : 192.168.32.4 : 58388
+
+Request is processed
+
+{'type': 'get', 'name': 'Whale'}
+
+{'name': 'Whale', 'price': 5.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+{'type': 'get', 'name': 'Bird'}
+
+{'name': 'Bird', 'price': 7.99, 'quantity': 0, 'code': 1}
+
+Connected to : 192.168.32.4 : 58390
+
+{'type': 'get', 'name': 'Elephant'}
+
+{'name': 'Elephant', 'price': 6.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58392
+
+{'type': 'get', 'name': 'Bird'}
+
+{'name': 'Bird', 'price': 7.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58394
+
+Connected to : 192.168.32.4 : 58396
+
+{'type': 'get', 'name': 'Tux'}
+
+{'name': 'Tux', 'price': 10.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+{'type': 'get', 'name': 'Whale'}
+
+{'name': 'Whale', 'price': 5.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58398
+
+Connected to : 192.168.32.4 : 58400
+
+{'type': 'get', 'name': 'Tux'}
+
+{'name': 'Tux', 'price': 10.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+{'type': 'get', 'name': 'Whale'}
+
+{'name': 'Whale', 'price': 5.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58402
+
+{'type': 'get', 'name': 'Whale'}
+
+{'name': 'Whale', 'price': 5.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58406
+
+Connected to : 192.168.32.4 : 58404
+
+Connected to : 192.168.32.4 : 58408
+
+{'type': 'get', 'name': 'Bird'}
+
+{'name': 'Bird', 'price': 7.99, 'quantity': 0, 'code': 1}
+
+Connected to : 192.168.32.4 : 58410
+
+{'type': 'get', 'name': 'Bird'}
+
+{'name': 'Bird', 'price': 7.99, 'quantity': 0, 'code': 1}
+
+{'type': 'get', 'name': 'Tux'}
+
+{'name': 'Tux', 'price': 10.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Request is processed
+
+Request is processed
+
+{'type': 'get', 'name': 'Tux'}
+
+{'name': 'Tux', 'price': 10.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58412
+
+{'type': 'get', 'name': 'Elephant'}
+
+{'name': 'Elephant', 'price': 6.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58414
+
+{'type': 'get', 'name': 'Elephant'}
+
+{'name': 'Elephant', 'price': 6.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58418
+
+Connected to : 192.168.32.4 : 58416
+
+{'type': 'get', 'name': 'Whale'}
+
+{'name': 'Whale', 'price': 5.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58420
+
+Connected to : 192.168.32.4 : 58422
+
+{'type': 'get', 'name': 'Whale'}
+
+{'name': 'Whale', 'price': 5.99, 'quantity': 0, 'code': 1}
+
+{'type': 'get', 'name': 'Tux'}
+
+{'name': 'Tux', 'price': 10.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Request is processed
+
+{'type': 'get', 'name': 'Whale'}
+
+{'name': 'Whale', 'price': 5.99, 'quantity': 0, 'code': 1}
+
+Connected to : 192.168.32.4 : 58424
+
+Request is processed
+
+{'type': 'get', 'name': 'Bird'}
+
+{'name': 'Bird', 'price': 7.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58426
+
+{'type': 'get', 'name': 'Whale'}
+
+{'name': 'Whale', 'price': 5.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58428
+
+{'type': 'get', 'name': 'Bird'}
+
+{'name': 'Bird', 'price': 7.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58430
+
+{'type': 'get', 'name': 'Whale'}
+
+{'name': 'Whale', 'price': 5.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58434
+
+Connected to : 192.168.32.4 : 58432
+
+{'type': 'get', 'name': 'Elephant'}
+
+{'name': 'Elephant', 'price': 6.99, 'quantity': 0, 'code': 1}
+
+Connected to : 192.168.32.4 : 58436
+
+Connected to : 192.168.32.4 : 58438
+
+{'type': 'get', 'name': 'Bird'}
+
+{'name': 'Bird', 'price': 7.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+{'type': 'get', 'name': 'Tux'}
+
+{'name': 'Tux', 'price': 10.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+{'type': 'get', 'name': 'Bird'}
+
+{'name': 'Bird', 'price': 7.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58440
+
+Connected to : 192.168.32.4 : 58442
+
+Connected to : 192.168.32.4 : 58444
+
+{'type': 'get', 'name': 'Tux'}
+
+{'name': 'Tux', 'price': 10.99, 'quantity': 0, 'code': 1}
+
+{'type': 'get', 'name': 'Elephant'}
+
+{'name': 'Elephant', 'price': 6.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58448
+
+{'type': 'get', 'name': 'Tux'}
+
+{'name': 'Tux', 'price': 10.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+{'type': 'get', 'name': 'Bird'}
+
+{'name': 'Bird', 'price': 7.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58450
+
+{'type': 'get', 'name': 'Elephant'}
+
+{'name': 'Elephant', 'price': 6.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58452
+
+{'type': 'get', 'name': 'Bird'}
+
+{'name': 'Bird', 'price': 7.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58454
+
+Connected to : 192.168.32.4 : 58456
+
+{'type': 'get', 'name': 'Bird'}
+
+{'name': 'Bird', 'price': 7.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+{'type': 'get', 'name': 'Tux'}
+
+{'name': 'Tux', 'price': 10.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58458
+
+Connected to : 192.168.32.4 : 58460
+
+{'type': 'get', 'name': 'Whale'}
+
+{'name': 'Whale', 'price': 5.99, 'quantity': 0, 'code': 1}
+
+{'type': 'get', 'name': 'Elephant'}
+
+{'name': 'Elephant', 'price': 6.99, 'quantity': 0, 'code': 1}
+
+Connected to : 192.168.32.4 : 58462
+
+Connected to : 192.168.32.4 : 58464
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58466
+
+{'type': 'get', 'name': 'Tux'}
+
+{'name': 'Tux', 'price': 10.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+{'type': 'get', 'name': 'Bird'}
+
+{'name': 'Bird', 'price': 7.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Request is processed
+
+{'type': 'get', 'name': 'Tux'}
+
+{'name': 'Tux', 'price': 10.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58470
+
+Connected to : 192.168.32.4 : 58472
+
+{'type': 'get', 'name': 'Whale'}
+
+{'name': 'Whale', 'price': 5.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+{'type': 'get', 'name': 'Whale'}
+
+{'name': 'Whale', 'price': 5.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58474
+
+Connected to : 192.168.32.4 : 58476
+
+{'type': 'get', 'name': 'Whale'}
+
+{'name': 'Whale', 'price': 5.99, 'quantity': 0, 'code': 1}
+
+{'type': 'get', 'name': 'Tux'}
+
+{'name': 'Tux', 'price': 10.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58478
+
+{'type': 'get', 'name': 'Elephant'}
+
+{'name': 'Elephant', 'price': 6.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58480
+
+Connected to : 192.168.32.4 : 58482
+
+{'type': 'get', 'name': 'Tux'}
+
+{'name': 'Tux', 'price': 10.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+{'type': 'get', 'name': 'Whale'}
+
+{'name': 'Whale', 'price': 5.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58484
+
+Connected to : 192.168.32.4 : 58486
+
+{'type': 'get', 'name': 'Tux'}
+
+{'name': 'Tux', 'price': 10.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+{'type': 'get', 'name': 'Bird'}
+
+{'name': 'Bird', 'price': 7.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58488
+
+Connected to : 192.168.32.4 : 58492
+
+{'type': 'get', 'name': 'Elephant'}
+
+{'name': 'Elephant', 'price': 6.99, 'quantity': 0, 'code': 1}
+
+{'type': 'get', 'name': 'Whale'}
+
+{'name': 'Whale', 'price': 5.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58490
+
+Connected to : 192.168.32.4 : 58494
+
+Connected to : 192.168.32.4 : 58496
+
+{'type': 'get', 'name': 'Elephant'}
+
+{'name': 'Elephant', 'price': 6.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+{'type': 'get', 'name': 'Whale'}
+
+{'name': 'Whale', 'price': 5.99, 'quantity': 0, 'code': 1}
+
+{'type': 'get', 'name': 'Bird'}
+
+{'name': 'Bird', 'price': 7.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Request is processed
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58498
+
+{'type': 'get', 'name': 'Tux'}
+
+{'name': 'Tux', 'price': 10.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58500
+
+{'type': 'get', 'name': 'Elephant'}
+
+{'name': 'Elephant', 'price': 6.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58502
+
+Connected to : 192.168.32.4 : 58504
+
+{'type': 'get', 'name': 'Elephant'}
+
+{'name': 'Elephant', 'price': 6.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+{'type': 'get', 'name': 'Elephant'}
+
+{'name': 'Elephant', 'price': 6.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58506
+
+{'type': 'get', 'name': 'Elephant'}
+
+{'name': 'Elephant', 'price': 6.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58508
+
+Connected to : 192.168.32.4 : 58510
+
+Connected to : 192.168.32.4 : 58512
+
+{'type': 'get', 'name': 'Bird'}
+
+{'name': 'Bird', 'price': 7.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+{'type': 'get', 'name': 'Elephant'}
+
+{'name': 'Elephant', 'price': 6.99, 'quantity': 0, 'code': 1}
+
+{'type': 'get', 'name': 'Tux'}
+
+{'name': 'Tux', 'price': 10.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58514
+
+Connected to : 192.168.32.4 : 58516
+
+{'type': 'get', 'name': 'Bird'}
+
+{'name': 'Bird', 'price': 7.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+{'type': 'get', 'name': 'Elephant'}
+
+{'name': 'Elephant', 'price': 6.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58518
+
+Connected to : 192.168.32.4 : 58520
+
+Connected to : 192.168.32.4 : 58522
+
+Connected to : 192.168.32.4 : 58524
+
+{'type': 'get', 'name': 'Whale'}
+
+{'name': 'Whale', 'price': 5.99, 'quantity': 0, 'code': 1}
+
+{'type': 'get', 'name': 'Whale'}
+
+{'name': 'Whale', 'price': 5.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+{'type': 'get', 'name': 'Elephant'}
+
+{'name': 'Elephant', 'price': 6.99, 'quantity': 0, 'code': 1}
+
+{'type': 'get', 'name': 'Bird'}
+
+{'name': 'Bird', 'price': 7.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58526
+
+Connected to : 192.168.32.4 : 58528
+
+Connected to : 192.168.32.4 : 58530
+
+Request is processed
+
+{'type': 'get', 'name': 'Whale'}
+
+{'name': 'Whale', 'price': 5.99, 'quantity': 0, 'code': 1}
+
+{'type': 'get', 'name': 'Elephant'}
+
+{'name': 'Elephant', 'price': 6.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58532
+
+{'type': 'get', 'name': 'Tux'}
+
+{'name': 'Tux', 'price': 10.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+{'type': 'get', 'name': 'Elephant'}
+
+{'name': 'Elephant', 'price': 6.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58534
+
+{'type': 'get', 'name': 'Tux'}
+
+{'name': 'Tux', 'price': 10.99, 'quantity': 0, 'code': 1}
+
+Connected to : 192.168.32.4 : 58536
+
+Request is processed
+
+{'type': 'get', 'name': 'Tux'}
+
+{'name': 'Tux', 'price': 10.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58538
+
+Connected to : 192.168.32.4 : 58540
+
+{'type': 'get', 'name': 'Whale'}
+
+{'name': 'Whale', 'price': 5.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+{'type': 'get', 'name': 'Whale'}
+
+{'name': 'Whale', 'price': 5.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58542
+
+{'type': 'get', 'name': 'Tux'}
+
+{'name': 'Tux', 'price': 10.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58544
+
+Connected to : 192.168.32.4 : 58546
+
+{'type': 'get', 'name': 'Elephant'}
+
+{'name': 'Elephant', 'price': 6.99, 'quantity': 0, 'code': 1}
+
+Connected to : 192.168.32.4 : 58548
+
+{'type': 'get', 'name': 'Bird'}
+
+{'name': 'Bird', 'price': 7.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+{'type': 'get', 'name': 'Elephant'}
+
+{'name': 'Elephant', 'price': 6.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58550
+
+Connected to : 192.168.32.4 : 58552
+
+{'type': 'get', 'name': 'Whale'}
+
+{'name': 'Whale', 'price': 5.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+{'type': 'get', 'name': 'Elephant'}
+
+{'name': 'Elephant', 'price': 6.99, 'quantity': 0, 'code': 1}
+
+Request is processed
+
+Connected to : 192.168.32.4 : 58554
+
+2.168.32.4 : 58444
+
+{'type': 'get', 'name': 'Tux'}
+
+{'name': 'Tux', 'price': 10.99, 'quantity': 0, 'code': 1}
+
+{'type': 'get', 'name': 'Elephant'}

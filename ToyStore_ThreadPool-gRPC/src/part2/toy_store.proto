@@ -1,0 +1,25 @@
+syntax = "proto3";
+
+service ToyStore {
+    rpc Query(ToyStoreSearchQuery) returns(ToyStoreSearchResponse) {}
+    rpc BuyItem(ToyStoreBuy) returns(ToyStoreBuyResponse) {}
+    
+}
+
+message ToyStoreSearchQuery{
+    string toy = 1;
+}
+
+message ToyStoreSearchResponse{
+    float price = 2;
+    int32 stock = 3;
+}
+
+
+message ToyStoreBuy {
+    string buy_toy = 5;      
+}
+
+message ToyStoreBuyResponse {
+    int32 value = 6;
+}

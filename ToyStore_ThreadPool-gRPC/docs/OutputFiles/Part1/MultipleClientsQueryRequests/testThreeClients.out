@@ -1,0 +1,901 @@
+query Tux
+query Whale
+query Tux
+Number of items left: 1500.0 Cost of the item: 10.99
+Number of items left: 1500.0 Cost of the item: 10.99
+Number of items left: 350.0 Cost of the item: 25.99
+Client 2 - Latency for request 0 : 62
+Client 1 - Latency for request 0 : 62
+Client 3 - Latency for request 0 : 62
+query Tux
+query Whale
+query Whale
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 3 - Latency for request 1 : 21
+Number of items left: 350.0 Cost of the item: 25.99
+Client 1 - Latency for request 1 : 21
+Number of items left: 350.0 Cost of the item: 25.99
+Client 2 - Latency for request 1 : 23
+query Tux
+query Tux
+query Whale
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 3 - Latency for request 2 : 18
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 1 - Latency for request 2 : 19
+Number of items left: 350.0 Cost of the item: 25.99
+Client 2 - Latency for request 2 : 17
+query Tux
+query Tux
+query Whale
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 3 - Latency for request 3 : 18
+Number of items left: 1500.0 Cost of the item: 10.99
+Number of items left: 350.0 Cost of the item: 25.99
+Client 1 - Latency for request 3 : 20
+Client 2 - Latency for request 3 : 20
+query Whale
+query Whale
+query Whale
+Number of items left: 350.0 Cost of the item: 25.99
+Client 3 - Latency for request 4 : 16
+Number of items left: 350.0 Cost of the item: 25.99
+Client 1 - Latency for request 4 : 18
+Number of items left: 350.0 Cost of the item: 25.99
+Client 2 - Latency for request 4 : 19
+query Tux
+query Whale
+query Tux
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 3 - Latency for request 5 : 16
+Number of items left: 350.0 Cost of the item: 25.99
+Client 1 - Latency for request 5 : 23
+query Tux
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 2 - Latency for request 5 : 19
+query Tux
+query Whale
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 3 - Latency for request 6 : 19
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 1 - Latency for request 6 : 17
+query Tux
+Number of items left: 350.0 Cost of the item: 25.99
+Client 2 - Latency for request 6 : 20
+query Whale
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 3 - Latency for request 7 : 21
+query Whale
+Number of items left: 350.0 Cost of the item: 25.99
+Client 1 - Latency for request 7 : 26
+query Tux
+Number of items left: 350.0 Cost of the item: 25.99
+Client 2 - Latency for request 7 : 26
+query Tux
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 3 - Latency for request 8 : 16
+query Whale
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 1 - Latency for request 8 : 19
+Number of items left: 350.0 Cost of the item: 25.99
+query Tux
+query Whale
+Client 2 - Latency for request 8 : 21
+query Tux
+Number of items left: 350.0 Cost of the item: 25.99
+Client 3 - Latency for request 9 : 18
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 1 - Latency for request 9 : 20
+query Whale
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 2 - Latency for request 9 : 20
+query Tux
+Number of items left: 350.0 Cost of the item: 25.99
+Client 3 - Latency for request 10 : 21
+query Tux
+query Whale
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 1 - Latency for request 10 : 21
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 2 - Latency for request 10 : 17
+query Whale
+Number of items left: 350.0 Cost of the item: 25.99
+Client 3 - Latency for request 11 : 17
+query Tux
+query Tux
+Number of items left: 350.0 Cost of the item: 25.99
+Client 1 - Latency for request 11 : 22
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 2 - Latency for request 11 : 20
+query Whale
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 3 - Latency for request 12 : 25
+query Whale
+query Whale
+Number of items left: 350.0 Cost of the item: 25.99
+Client 1 - Latency for request 12 : 36
+Number of items left: 350.0 Cost of the item: 25.99
+Client 2 - Latency for request 12 : 20
+Number of items left: 350.0 Cost of the item: 25.99
+query Whale
+Client 3 - Latency for request 13 : 20
+query Tux
+query Tux
+Number of items left: 350.0 Cost of the item: 25.99
+Client 1 - Latency for request 13 : 19
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 2 - Latency for request 13 : 16
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 3 - Latency for request 14 : 14
+query Whale
+query Tux
+query Whale
+Number of items left: 350.0 Cost of the item: 25.99
+Client 1 - Latency for request 14 : 20
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 2 - Latency for request 14 : 22
+Number of items left: 350.0 Cost of the item: 25.99
+Client 3 - Latency for request 15 : 22
+query Whale
+query Tux
+query Whale
+Number of items left: 350.0 Cost of the item: 25.99
+Client 1 - Latency for request 15 : 21
+Number of items left: 350.0 Cost of the item: 25.99
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 3 - Latency for request 16 : 16
+Client 2 - Latency for request 15 : 17
+query Tux
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 1 - Latency for request 16 : 17
+query Whale
+query Tux
+query Tux
+Number of items left: 350.0 Cost of the item: 25.99
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 3 - Latency for request 17 : 22
+Client 2 - Latency for request 16 : 22
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 1 - Latency for request 17 : 25
+query Tux
+query Whale
+query Whale
+Number of items left: 1500.0 Cost of the item: 10.99
+Number of items left: 350.0 Cost of the item: 25.99
+Client 2 - Latency for request 17 : 17
+Client 3 - Latency for request 18 : 17
+Number of items left: 350.0 Cost of the item: 25.99
+Client 1 - Latency for request 18 : 16
+query Tux
+query Whale
+query Whale
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 2 - Latency for request 18 : 18
+Number of items left: 350.0 Cost of the item: 25.99
+Client 1 - Latency for request 19 : 14
+Number of items left: 350.0 Cost of the item: 25.99
+Client 3 - Latency for request 19 : 19
+query Whale
+query Tux
+query Tux
+Number of items left: 350.0 Cost of the item: 25.99
+Client 2 - Latency for request 19 : 15
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 1 - Latency for request 20 : 24
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 3 - Latency for request 20 : 25
+query Whale
+query Tux
+query Whale
+Number of items left: 350.0 Cost of the item: 25.99
+Client 2 - Latency for request 20 : 19
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 1 - Latency for request 21 : 18
+Number of items left: 350.0 Cost of the item: 25.99
+Client 3 - Latency for request 21 : 19
+query Tux
+query Tux
+query Whale
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 2 - Latency for request 21 : 16
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 1 - Latency for request 22 : 16
+Number of items left: 350.0 Cost of the item: 25.99
+Client 3 - Latency for request 22 : 17
+query Tux
+query Tux
+query Tux
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 2 - Latency for request 22 : 25
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 1 - Latency for request 23 : 21
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 3 - Latency for request 23 : 19
+query Whale
+query Whale
+query Tux
+Number of items left: 350.0 Cost of the item: 25.99
+Client 2 - Latency for request 23 : 19
+Number of items left: 350.0 Cost of the item: 25.99
+Client 1 - Latency for request 24 : 18
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 3 - Latency for request 24 : 18
+query Whale
+query Whale
+query Tux
+Number of items left: 350.0 Cost of the item: 25.99
+Client 2 - Latency for request 24 : 20
+Number of items left: 350.0 Cost of the item: 25.99
+Client 3 - Latency for request 25 : 20
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 1 - Latency for request 25 : 22
+query Whale
+query Whale
+query Tux
+Number of items left: 350.0 Cost of the item: 25.99
+Client 2 - Latency for request 25 : 25
+Number of items left: 350.0 Cost of the item: 25.99
+Client 3 - Latency for request 26 : 23
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 1 - Latency for request 26 : 22
+query Tux
+query Tux
+query Whale
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 2 - Latency for request 26 : 14
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 3 - Latency for request 27 : 15
+Number of items left: 350.0 Cost of the item: 25.99
+Client 1 - Latency for request 27 : 16
+query Tux
+query Tux
+query Tux
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 2 - Latency for request 27 : 17
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 3 - Latency for request 28 : 19
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 1 - Latency for request 28 : 24
+query Tux
+query Tux
+query Whale
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 2 - Latency for request 28 : 44
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 3 - Latency for request 29 : 28
+Number of items left: 350.0 Cost of the item: 25.99
+Client 1 - Latency for request 29 : 21
+query Tux
+query Tux
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 3 - Latency for request 30 : 17
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 2 - Latency for request 29 : 21
+query Tux
+query Tux
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 1 - Latency for request 30 : 22
+query Tux
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 3 - Latency for request 31 : 27
+query Tux
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 2 - Latency for request 30 : 32
+query Tux
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 1 - Latency for request 31 : 21
+query Whale
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 3 - Latency for request 32 : 20
+query Tux
+Number of items left: 350.0 Cost of the item: 25.99
+Client 2 - Latency for request 31 : 19
+query Whale
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 1 - Latency for request 32 : 19
+query Whale
+Number of items left: 350.0 Cost of the item: 25.99
+Client 3 - Latency for request 33 : 24
+query Whale
+Number of items left: 350.0 Cost of the item: 25.99
+Client 2 - Latency for request 32 : 26
+query Tux
+query Whale
+Number of items left: 350.0 Cost of the item: 25.99
+Client 1 - Latency for request 33 : 26
+query Tux
+Number of items left: 350.0 Cost of the item: 25.99
+Client 2 - Latency for request 33 : 21
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 3 - Latency for request 34 : 23
+query Whale
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 1 - Latency for request 34 : 20
+query Whale
+query Whale
+Number of items left: 350.0 Cost of the item: 25.99
+Client 2 - Latency for request 34 : 19
+Number of items left: 350.0 Cost of the item: 25.99
+Client 3 - Latency for request 35 : 20
+Number of items left: 350.0 Cost of the item: 25.99
+Client 1 - Latency for request 35 : 21
+query Tux
+query Tux
+query Tux
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 2 - Latency for request 35 : 22
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 3 - Latency for request 36 : 31
+query Tux
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 1 - Latency for request 36 : 19
+query Whale
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 2 - Latency for request 36 : 18
+query Tux
+query Whale
+Number of items left: 1500.0 Cost of the item: 10.99
+Number of items left: 350.0 Cost of the item: 25.99
+Client 3 - Latency for request 37 : 25
+Client 1 - Latency for request 37 : 23
+Number of items left: 350.0 Cost of the item: 25.99
+Client 2 - Latency for request 37 : 15
+query Tux
+query Whale
+query Whale
+Number of items left: 350.0 Cost of the item: 25.99
+Client 1 - Latency for request 38 : 31
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 3 - Latency for request 38 : 32
+Number of items left: 350.0 Cost of the item: 25.99
+Client 2 - Latency for request 38 : 27
+query Whale
+query Tux
+query Whale
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 1 - Latency for request 39 : 22
+Number of items left: 350.0 Cost of the item: 25.99
+Client 3 - Latency for request 39 : 25
+Number of items left: 350.0 Cost of the item: 25.99
+Client 2 - Latency for request 39 : 20
+query Whale
+query Tux
+query Tux
+Number of items left: 350.0 Cost of the item: 25.99
+Client 2 - Latency for request 40 : 20
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 1 - Latency for request 40 : 20
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 3 - Latency for request 40 : 22
+query Whale
+query Tux
+query Whale
+Number of items left: 350.0 Cost of the item: 25.99
+Client 3 - Latency for request 41 : 14
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 2 - Latency for request 41 : 19
+Number of items left: 350.0 Cost of the item: 25.99
+Client 1 - Latency for request 41 : 19
+query Tux
+query Whale
+query Whale
+Number of items left: 350.0 Cost of the item: 25.99
+Client 3 - Latency for request 42 : 16
+Number of items left: 350.0 Cost of the item: 25.99
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 1 - Latency for request 42 : 19
+Client 2 - Latency for request 42 : 22
+query Whale
+query Tux
+query Whale
+Number of items left: 350.0 Cost of the item: 25.99
+Client 3 - Latency for request 43 : 32
+Number of items left: 1500.0 Cost of the item: 10.99
+Number of items left: 350.0 Cost of the item: 25.99
+Client 1 - Latency for request 43 : 26
+Client 2 - Latency for request 43 : 25
+query Whale
+query Tux
+query Tux
+Number of items left: 350.0 Cost of the item: 25.99
+Client 3 - Latency for request 44 : 19
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 1 - Latency for request 44 : 17
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 2 - Latency for request 44 : 18
+query Tux
+query Whale
+query Tux
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 1 - Latency for request 45 : 22
+Number of items left: 350.0 Cost of the item: 25.99
+Client 3 - Latency for request 45 : 22
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 2 - Latency for request 45 : 28
+query Tux
+query Tux
+query Tux
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 3 - Latency for request 46 : 18
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 1 - Latency for request 46 : 19
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 2 - Latency for request 46 : 21
+query Whale
+query Tux
+query Tux
+Number of items left: 350.0 Cost of the item: 25.99
+Client 3 - Latency for request 47 : 18
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 1 - Latency for request 47 : 21
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 2 - Latency for request 47 : 23
+query Whale
+query Tux
+query Whale
+Number of items left: 350.0 Cost of the item: 25.99
+Client 3 - Latency for request 48 : 19
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 1 - Latency for request 48 : 20
+Number of items left: 350.0 Cost of the item: 25.99
+Client 2 - Latency for request 48 : 19
+query Whale
+query Tux
+query Tux
+Number of items left: 350.0 Cost of the item: 25.99
+Client 3 - Latency for request 49 : 19
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 1 - Latency for request 49 : 23
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 2 - Latency for request 49 : 14
+query Whale
+query Tux
+query Whale
+Number of items left: 350.0 Cost of the item: 25.99
+Client 3 - Latency for request 50 : 15
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 1 - Latency for request 50 : 16
+Number of items left: 350.0 Cost of the item: 25.99
+Client 2 - Latency for request 50 : 21
+query Whale
+query Tux
+query Whale
+Number of items left: 350.0 Cost of the item: 25.99
+Client 3 - Latency for request 51 : 15
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 1 - Latency for request 51 : 17
+Number of items left: 350.0 Cost of the item: 25.99
+Client 2 - Latency for request 51 : 17
+query Tux
+query Tux
+query Tux
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 3 - Latency for request 52 : 15
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 1 - Latency for request 52 : 24
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 2 - Latency for request 52 : 15
+query Tux
+query Whale
+query Whale
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 3 - Latency for request 53 : 21
+Number of items left: 350.0 Cost of the item: 25.99
+Client 1 - Latency for request 53 : 22
+query Whale
+Number of items left: 350.0 Cost of the item: 25.99
+Client 2 - Latency for request 53 : 26
+query Tux
+Number of items left: 350.0 Cost of the item: 25.99
+Client 3 - Latency for request 54 : 45
+query Tux
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 1 - Latency for request 54 : 22
+query Tux
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 2 - Latency for request 54 : 23
+query Tux
+query Tux
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 3 - Latency for request 55 : 21
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 1 - Latency for request 55 : 21
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 2 - Latency for request 55 : 15
+query Tux
+query Tux
+query Tux
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 3 - Latency for request 56 : 25
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 1 - Latency for request 56 : 18
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 2 - Latency for request 56 : 26
+query Whale
+query Whale
+query Tux
+Number of items left: 350.0 Cost of the item: 25.99
+Client 1 - Latency for request 57 : 19
+Number of items left: 350.0 Cost of the item: 25.99
+Client 3 - Latency for request 57 : 20
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 2 - Latency for request 57 : 14
+query Tux
+query Whale
+query Whale
+Number of items left: 350.0 Cost of the item: 25.99
+Number of items left: 350.0 Cost of the item: 25.99
+Client 2 - Latency for request 58 : 25
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 1 - Latency for request 58 : 25
+Client 3 - Latency for request 58 : 25
+query Whale
+query Whale
+query Whale
+Number of items left: 350.0 Cost of the item: 25.99
+Client 2 - Latency for request 59 : 26
+Number of items left: 350.0 Cost of the item: 25.99
+Client 3 - Latency for request 59 : 26
+Number of items left: 350.0 Cost of the item: 25.99
+Client 1 - Latency for request 59 : 25
+query Tux
+query Whale
+query Tux
+Number of items left: 1500.0 Cost of the item: 10.99
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 2 - Latency for request 60 : 27
+Client 1 - Latency for request 60 : 24
+Number of items left: 350.0 Cost of the item: 25.99
+Client 3 - Latency for request 60 : 24
+query Whale
+query Whale
+query Whale
+Number of items left: 350.0 Cost of the item: 25.99
+Client 1 - Latency for request 61 : 19
+Number of items left: 350.0 Cost of the item: 25.99
+Client 3 - Latency for request 61 : 22
+Number of items left: 350.0 Cost of the item: 25.99
+Client 2 - Latency for request 61 : 33
+query Whale
+query Tux
+Number of items left: 350.0 Cost of the item: 25.99
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 1 - Latency for request 62 : 17
+Client 3 - Latency for request 62 : 16
+query Whale
+query Tux
+query Whale
+Number of items left: 350.0 Cost of the item: 25.99
+Client 2 - Latency for request 62 : 19
+Number of items left: 350.0 Cost of the item: 25.99
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 3 - Latency for request 63 : 20
+query Tux
+Client 1 - Latency for request 63 : 21
+query Tux
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 2 - Latency for request 63 : 29
+query Whale
+query Whale
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 3 - Latency for request 64 : 26
+Number of items left: 350.0 Cost of the item: 25.99
+Client 2 - Latency for request 64 : 16
+query Tux
+query Tux
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 3 - Latency for request 65 : 18
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 2 - Latency for request 65 : 15
+query Tux
+query Whale
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 3 - Latency for request 66 : 14
+Number of items left: 350.0 Cost of the item: 25.99
+Client 2 - Latency for request 66 : 16
+query Whale
+query Tux
+Number of items left: 350.0 Cost of the item: 25.99
+Client 3 - Latency for request 67 : 17
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 2 - Latency for request 67 : 17
+query Tux
+query Whale
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 3 - Latency for request 68 : 16
+Number of items left: 350.0 Cost of the item: 25.99
+Client 2 - Latency for request 68 : 15
+query Tux
+query Tux
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 3 - Latency for request 69 : 26
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 2 - Latency for request 69 : 21
+query Tux
+query Tux
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 3 - Latency for request 70 : 18
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 2 - Latency for request 70 : 14
+query Whale
+query Whale
+Number of items left: 350.0 Cost of the item: 25.99
+Client 3 - Latency for request 71 : 19
+Number of items left: 350.0 Cost of the item: 25.99
+Client 2 - Latency for request 71 : 17
+query Tux
+query Whale
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 3 - Latency for request 72 : 15
+Number of items left: 350.0 Cost of the item: 25.99
+Client 2 - Latency for request 72 : 17
+query Whale
+query Whale
+Number of items left: 350.0 Cost of the item: 25.99
+Client 3 - Latency for request 73 : 20
+Number of items left: 350.0 Cost of the item: 25.99
+Client 2 - Latency for request 73 : 18
+query Whale
+query Tux
+Number of items left: 350.0 Cost of the item: 25.99
+Client 2 - Latency for request 74 : 17
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 3 - Latency for request 74 : 19
+query Tux
+query Whale
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 2 - Latency for request 75 : 22
+Number of items left: 350.0 Cost of the item: 25.99
+Client 3 - Latency for request 75 : 28
+query Tux
+query Tux
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 2 - Latency for request 76 : 17
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 3 - Latency for request 76 : 17
+query Whale
+Number of items left: 350.0 Cost of the item: 25.99
+Client 2 - Latency for request 77 : 18
+query Tux
+query Tux
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 3 - Latency for request 77 : 20
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 2 - Latency for request 78 : 23
+query Whale
+query Whale
+Number of items left: 350.0 Cost of the item: 25.99
+Client 3 - Latency for request 78 : 18
+Number of items left: 350.0 Cost of the item: 25.99
+Client 2 - Latency for request 79 : 18
+query Whale
+Number of items left: 350.0 Cost of the item: 25.99
+Client 3 - Latency for request 79 : 15
+query Tux
+query Tux
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 2 - Latency for request 80 : 17
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 3 - Latency for request 80 : 19
+query Tux
+query Tux
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 2 - Latency for request 81 : 23
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 3 - Latency for request 81 : 23
+query Whale
+query Tux
+Number of items left: 350.0 Cost of the item: 25.99
+Client 2 - Latency for request 82 : 18
+query Tux
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 3 - Latency for request 82 : 24
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 2 - Latency for request 83 : 22
+query Tux
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 3 - Latency for request 83 : 18
+query Tux
+query Whale
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 2 - Latency for request 84 : 24
+Number of items left: 350.0 Cost of the item: 25.99
+Client 3 - Latency for request 84 : 19
+query Whale
+Number of items left: 350.0 Cost of the item: 25.99
+Client 2 - Latency for request 85 : 21
+query Tux
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 3 - Latency for request 85 : 18
+query Whale
+Number of items left: 350.0 Cost of the item: 25.99
+Client 2 - Latency for request 86 : 16
+query Tux
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 3 - Latency for request 86 : 20
+query Whale
+query Tux
+Number of items left: 350.0 Cost of the item: 25.99
+Client 2 - Latency for request 87 : 17
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 3 - Latency for request 87 : 18
+query Whale
+query Whale
+Number of items left: 350.0 Cost of the item: 25.99
+Client 2 - Latency for request 88 : 16
+Number of items left: 350.0 Cost of the item: 25.99
+Client 3 - Latency for request 88 : 17
+query Whale
+Number of items left: 350.0 Cost of the item: 25.99
+Client 2 - Latency for request 89 : 21
+query Tux
+Number of items left: 1500.0 Cost of the item: 10.99
+query Whale
+Client 3 - Latency for request 89 : 21
+Number of items left: 350.0 Cost of the item: 25.99
+query Whale
+Client 2 - Latency for request 90 : 23
+Number of items left: 350.0 Cost of the item: 25.99
+Client 3 - Latency for request 90 : 15
+query Tux
+query Whale
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 2 - Latency for request 91 : 19
+Number of items left: 350.0 Cost of the item: 25.99
+Client 3 - Latency for request 91 : 18
+query Tux
+query Whale
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 2 - Latency for request 92 : 17
+Number of items left: 350.0 Cost of the item: 25.99
+Client 3 - Latency for request 92 : 25
+query Tux
+query Whale
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 2 - Latency for request 93 : 20
+Number of items left: 350.0 Cost of the item: 25.99
+Client 3 - Latency for request 93 : 16
+query Tux
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 2 - Latency for request 94 : 16
+query Whale
+Number of items left: 350.0 Cost of the item: 25.99
+Client 3 - Latency for request 94 : 14
+query Tux
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 2 - Latency for request 95 : 17
+query Whale
+Number of items left: 350.0 Cost of the item: 25.99
+Client 3 - Latency for request 95 : 16
+query Tux
+query Whale
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 2 - Latency for request 96 : 22
+Number of items left: 350.0 Cost of the item: 25.99
+Client 3 - Latency for request 96 : 18
+query Whale
+query Whale
+Number of items left: 350.0 Cost of the item: 25.99
+Client 2 - Latency for request 97 : 18
+Number of items left: 350.0 Cost of the item: 25.99
+Client 3 - Latency for request 97 : 15
+query Tux
+query Whale
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 2 - Latency for request 98 : 17
+Number of items left: 350.0 Cost of the item: 25.99
+Client 3 - Latency for request 98 : 18
+query Whale
+query Tux
+Number of items left: 350.0 Cost of the item: 25.99
+Client 2 - Latency for request 99 : 14
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 3 - Latency for request 99 : 20
+Number of items left: 350.0 Cost of the item: 25.99
+Client 1 - Latency for request 64 : 3396
+query Tux
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 1 - Latency for request 65 : 21
+query Whale
+Number of items left: 350.0 Cost of the item: 25.99
+Client 1 - Latency for request 66 : 21
+query Whale
+Number of items left: 350.0 Cost of the item: 25.99
+Client 1 - Latency for request 67 : 16
+query Tux
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 1 - Latency for request 68 : 18
+query Whale
+Number of items left: 350.0 Cost of the item: 25.99
+Client 1 - Latency for request 69 : 16
+query Whale
+Number of items left: 350.0 Cost of the item: 25.99
+Client 1 - Latency for request 70 : 16
+query Tux
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 1 - Latency for request 71 : 15
+query Tux
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 1 - Latency for request 72 : 13
+query Whale
+Number of items left: 350.0 Cost of the item: 25.99
+Client 1 - Latency for request 73 : 25
+query Tux
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 1 - Latency for request 74 : 18
+query Tux
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 1 - Latency for request 75 : 17
+query Whale
+Number of items left: 350.0 Cost of the item: 25.99
+Client 1 - Latency for request 76 : 17
+query Whale
+Number of items left: 350.0 Cost of the item: 25.99
+Client 1 - Latency for request 77 : 17
+query Tux
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 1 - Latency for request 78 : 14
+query Whale
+Number of items left: 350.0 Cost of the item: 25.99
+Client 1 - Latency for request 79 : 17
+query Tux
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 1 - Latency for request 80 : 19
+query Whale
+Number of items left: 350.0 Cost of the item: 25.99
+Client 1 - Latency for request 81 : 17
+query Tux
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 1 - Latency for request 82 : 18
+query Tux
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 1 - Latency for request 83 : 15
+query Tux
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 1 - Latency for request 84 : 17
+query Tux
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 1 - Latency for request 85 : 19
+query Whale
+Number of items left: 350.0 Cost of the item: 25.99
+Client 1 - Latency for request 86 : 16
+query Whale
+Number of items left: 350.0 Cost of the item: 25.99
+Client 1 - Latency for request 87 : 16
+query Whale
+Number of items left: 350.0 Cost of the item: 25.99
+Client 1 - Latency for request 88 : 15
+query Whale
+Number of items left: 350.0 Cost of the item: 25.99
+Client 1 - Latency for request 89 : 15
+query Whale
+Number of items left: 350.0 Cost of the item: 25.99
+Client 1 - Latency for request 90 : 19
+query Whale
+Number of items left: 350.0 Cost of the item: 25.99
+Client 1 - Latency for request 91 : 15
+query Whale
+Number of items left: 350.0 Cost of the item: 25.99
+Client 1 - Latency for request 92 : 25
+query Whale
+Number of items left: 350.0 Cost of the item: 25.99
+Client 1 - Latency for request 93 : 17
+query Tux
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 1 - Latency for request 94 : 17
+query Tux
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 1 - Latency for request 95 : 15
+query Whale
+Number of items left: 350.0 Cost of the item: 25.99
+Client 1 - Latency for request 96 : 16
+query Whale
+Number of items left: 350.0 Cost of the item: 25.99
+Client 1 - Latency for request 97 : 15
+query Whale
+Number of items left: 350.0 Cost of the item: 25.99
+Client 1 - Latency for request 98 : 15
+query Tux
+Number of items left: 1500.0 Cost of the item: 10.99
+Client 1 - Latency for request 99 : 18
+Request latency when 3 client(s) are run simultaneously: 31.6
